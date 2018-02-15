@@ -37,6 +37,8 @@ end
 
 # Define your play method below
 def play
-  9.times(puts "hello")
+  9.times do
+    puts "hello"
+  end
 end
 
