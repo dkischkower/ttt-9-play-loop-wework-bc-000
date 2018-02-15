@@ -38,7 +38,7 @@ end
 # Define your play method below
 def play()
   9.times 
-  
-end 
+    puts "hello"
+  end 
 end
 
